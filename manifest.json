@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "Leechay",
-    "description": "reeera",
+    "name": "Unicorn",
+    "description": "replaces all images with a unicorn image",
     "version": "1.0",
     "content_scripts": [
         {
